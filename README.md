@@ -2,8 +2,9 @@
 
 <div align="center">
    <a href="https://github.com/iamruveyda/Analysis-of-Movie-Dataset/blob/main/LICENSE"><img alt="License" src="https://img.shields.io/github/license/iamruveyda/Analysis-of-Movie-Dataset?color=0E6655&style=flat-square"></a>
+   <a><img alt="Code Size" src="https://img.shields.io/github/languages/code-size/iamruveyda/Analysis-of-Movie-Dataset?color=ca3400&style=flat-square"></a> 
    <a><img alt="Repo Size" src="https://img.shields.io/github/repo-size/iamruveyda/Analysis-of-Movie-Dataset?color=8B0000&style=flat-square"></a>
-   <a><img src="https://img.shields.io/badge/repository%20creation%20date-Nov%2006,2022-2E4053.svg?style=flat-square"></a>
+   <a><img src="https://img.shields.io/badge/repository%20creation%20date-Nov%2006,2022-2E4053?style=flat-square"></a>
 </div>
 
 <hr>
